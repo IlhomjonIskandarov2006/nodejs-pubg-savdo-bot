@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "node-fetch": "^3.2.10",
+    "node-telegram-bot-api": "^0.59.0",
+    "nodemon": "^2.0.19"
+  },
+  "name": "node-telegram-bot-api",
+  "version": "1.0.0",
+  "description": "Telegram bot yaratib turibman amalaiyot bui",
+  "main": "main.js",
+  "scripts": {
+    "start": "nodemon main"
+  },
+  "author": "IlhomjonIskandariv",
+  "license": "ISC"
+}
